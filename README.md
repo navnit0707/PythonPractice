@@ -14,20 +14,25 @@
 This repo is mainly for code practice so that one can learn write clean code. 
 
 ## Questions description
-
+-**AgeCalculator** : Write a program to calculate the age and display as a GUI App using tkinter.
 - **question1** : Given an input num as a string. 
 You need to typecast into an integer and double it.
 - **question2** : Swapping two number. Given two numbers a and b, you need to swap their values so a holds the value of b and b holds the value of a for t number of times ; where t is taken as an input from an user.
-- **quest3** : Given two integers a and b, 
+- **question3** : Given two integers a and b, 
 you need to concatenate them so the output is ab. 
-- **quest4** : Given two sets A and B. find the Union of both the sets.
+- **question4** : Given two sets A and B. find the Union of both the sets.
                Union of two given sets A and B is a set which consists 
                of all the elements of A and all the elements of B such
                that no element is repeated. 
-- **quest5** : Given two sets A and B. 
+- **question5** : Given two sets A and B. 
 check whether A is subset of B
-- **quest7** : Given a tuple A , 
+- **question7** : Given a tuple A , 
 find if all elements of tuple are different or not.
+-**question8** : Given a number, check whether the number is prime or not.
+-**question9** : Given month and year, display the calendar of that month and year.
+-**question10** : Given a string,write a program to count the number of each vowels.
+-**question11** : Given two sets A and B,find whether set A  is a subset of set B.
+-**question12** : Program for Dijkstra's single source shortest path algorithm. The program is for adjacency matrix representation of the graph. 
 =======
 ## This repo covers various python questions to practice.
 ## Level -> *Beginner , Intermediate.*
