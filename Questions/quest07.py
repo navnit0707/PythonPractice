@@ -3,6 +3,7 @@
 Given a tuple A , 
 find if all elements of tuple are different or not.
 """
+
 class Solution:
     def checkDistinct(self, A):
         #this line will first convert tupple into set
@@ -23,6 +24,7 @@ def main():
         res = ob.checkDistinct(a)
         print(res)
         t-=1
+        
 if __name__ == "__main__": 
     main()
 #} Driver Code Ends
