@@ -20,7 +20,6 @@ def main():
         ob = Solution()
         res = ob.checkSubset(a,b)
         print(res)
-        
         t-=1
         
 if __name__ == "__main__":
