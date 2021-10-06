@@ -2,7 +2,6 @@
 1. TypeCast And Double It
 Given an input num as a string. 
 You need to typecast into an integer and double it.
-
 """
 
 def utility():
@@ -21,5 +20,6 @@ def main():
     while(t>0):
         utility()
         t-=1
+        
 if __name__ == "__main__":
     main()

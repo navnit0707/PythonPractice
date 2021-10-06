@@ -11,8 +11,7 @@ for i in range(int(input())):
     if x.intersection(y)==x:
          print("True")
     else:
-         print("False")
-         
+         print("False")   
 
 #sample input
 #1

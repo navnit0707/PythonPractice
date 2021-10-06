@@ -2,7 +2,6 @@
 5. Check Subset 
 Given two sets A and B. 
 check whether A is subset of B ?
-
 A is subset of B, if all elements 
 of a set A are present in another set B.
 """
