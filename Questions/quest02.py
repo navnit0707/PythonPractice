@@ -16,6 +16,7 @@ def main():
         b = int(input())
         oj = Solution();
         oj.utility(a, b)
+        
         t-=1
 
 if __name__ == "__main__":
