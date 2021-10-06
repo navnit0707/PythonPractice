@@ -1,5 +1,5 @@
 """"
-Given two integers a and b, 
+3. Given two integers a and b, 
 you need to concatenate them so the output is ab.
 """
 def utility():
